@@ -1,0 +1,2119 @@
+2013/07/12 15:53:58 [error] [php] Trying to get property of non-object (/home/zagran/workspace/saleitem/protected/components/ApiB.php:115)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/home
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (115)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 15:54:29 [error] [php] Trying to get property of non-object (/home/zagran/workspace/saleitem/protected/components/ApiB.php:115)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/home
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (115)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 15:54:33 [error] [php] Trying to get property of non-object (/home/zagran/workspace/saleitem/protected/components/ApiB.php:115)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/home
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (115)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 15:54:51 [error] [php] Trying to get property of non-object (/home/zagran/workspace/saleitem/protected/components/ApiB.php:115)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/home
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (115)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 15:55:32 [error] [php] Trying to get property of non-object (/home/zagran/workspace/saleitem/protected/components/ApiB.php:114)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/home
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (114)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 15:59:53 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 15:59:53 [error] [php] move_uploaded_file(/home/zagran/workspace/saleitem/protected/uploads/userpic/kRMiuf4dZnFXtAWgPwqLsGrlJ17vxTCD.jpg): failed to open stream: No such file or directory (/home/zagran/workspace/saleitem/framework/web/CUploadedFile.php:196)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): account_create()
+#1 unknown(0): ApiController->actionProxy()
+#2 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#3 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#7 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#8 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (75)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:00:37 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:00:38 [error] [php] move_uploaded_file(/home/zagran/workspace/saleitem/protected/uploads/userpic/IXOdq9gTa0l581bmvuQH2CSxnLj3eYGB.jpg): failed to open stream: No such file or directory (/home/zagran/workspace/saleitem/framework/web/CUploadedFile.php:196)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): account_create()
+#1 unknown(0): ApiController->actionProxy()
+#2 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#3 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#7 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#8 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (75)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:01:48 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:02:21 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:03:38 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:04:51 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:04:52 [error] [php] Undefined index: file (/home/zagran/workspace/saleitem/protected/components/ApiB.php:74)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (74)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:05:27 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:05:27 [error] [php] Undefined index: image (/home/zagran/workspace/saleitem/protected/components/ApiB.php:74)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (74)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:05:42 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:06:45 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:06:58 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:06:59 [error] [php] include(/home/zagran/workspace/saleitem/protected/extensions/yii-mail/YiiMailMessage.php): failed to open stream: No such file or directory (/home/zagran/workspace/saleitem/framework/YiiBase.php:395)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/components/ApiB.php(98): spl_autoload_call()
+#1 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): account_create()
+#2 unknown(0): ApiController->actionProxy()
+#3 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#8 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#11 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (98)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:08:10 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:08:20 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:09:33 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:09:46 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:15:04 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:15:05 [error] [php] move_uploaded_file(/home/zagran/workspace/saleitem/protected/uploads/userpic/XQcRUONZ6tIsfkwdP4LrvVu072ioK1za.jpg): failed to open stream: Permission denied (/home/zagran/workspace/saleitem/framework/web/CUploadedFile.php:196)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): account_create()
+#1 unknown(0): ApiController->actionProxy()
+#2 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#3 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#7 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#8 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (76)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:15:38 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:15:39 [error] [php] include(/home/zagran/workspace/saleitem/protected/extensions/yii-mail/YiiMailMessage.php): failed to open stream: No such file or directory (/home/zagran/workspace/saleitem/framework/YiiBase.php:395)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/components/ApiB.php(96): spl_autoload_call()
+#1 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): account_create()
+#2 unknown(0): ApiController->actionProxy()
+#3 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#8 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#11 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (96)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:16:42 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:16:43 [error] [php] include(/home/zagran/workspace/saleitem/protected/extensions/yii-mail/YiiMailMessage.php): failed to open stream: Permission denied (/home/zagran/workspace/saleitem/framework/YiiBase.php:395)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/components/ApiB.php(96): spl_autoload_call()
+#1 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): account_create()
+#2 unknown(0): ApiController->actionProxy()
+#3 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#8 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#10 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#11 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (96)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:17:13 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (28)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:46:26 [error] [php] Undefined variable: user (/home/zagran/workspace/saleitem/protected/components/ApiB.php:118)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/home
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (118)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:46:47 [error] [php] Trying to get property of non-object (/home/zagran/workspace/saleitem/protected/components/ApiB.php:124)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/home
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (124)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 16:51:00 [error] [php] Trying to get property of non-object (/home/zagran/workspace/saleitem/protected/components/ApiB.php:121)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/home
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (121)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/12 18:20:50 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (49)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (24)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/12 18:21:00 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (49)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (24)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/12 18:37:14 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (50)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (26)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/12 18:38:28 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (50)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (26)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 15:03:26 [error] [php] Creating default object from empty value (/home/zagran/workspace/saleitem/protected/components/ApiB.php:187)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (187)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/15 15:04:04 [error] [php] Creating default object from empty value (/home/zagran/workspace/saleitem/protected/components/ApiB.php:187)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (187)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/15 15:05:06 [error] [php] Creating default object from empty value (/home/zagran/workspace/saleitem/protected/components/ApiB.php:187)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (187)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/15 15:05:50 [error] [php] Creating default object from empty value (/home/zagran/workspace/saleitem/protected/components/ApiB.php:187)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (187)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/15 15:07:28 [error] [php] Trying to get property of non-object (/home/zagran/workspace/saleitem/protected/components/ApiB.php:187)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (187)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/15 15:07:55 [error] [php] Trying to get property of non-object (/home/zagran/workspace/saleitem/protected/components/ApiB.php:187)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (187)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/15 15:11:06 [error] [php] Undefined variable: soc_id (/home/zagran/workspace/saleitem/protected/components/ApiB.php:203)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (203)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/15 15:13:28 [error] [php] Undefined index: password (/home/zagran/workspace/saleitem/protected/components/ApiB.php:44)
+Stack trace:
+#0 unknown(0): ApiController->actionProxy()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#2 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#7 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#9 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (44)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (189)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 15:32:16 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/home/zagran/workspace/saleitem/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /home/zagran/workspace/saleitem/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/home/zagran/wo...')
+#1 /home/zagran/workspace/saleitem/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /home/zagran/workspace/saleitem/framework/gii/GiiModule.php(142): CAssetManager->publish('/home/zagran/wo...')
+#3 /home/zagran/workspace/saleitem/framework/base/CComponent.php(111): GiiModule->getAssetsUrl()
+#4 /home/zagran/workspace/saleitem/framework/base/CModule.php(105): CComponent->__get('assetsUrl')
+#5 /home/zagran/workspace/saleitem/framework/gii/views/layouts/main.php(5): CModule->__get('assetsUrl')
+#6 /home/zagran/workspace/saleitem/framework/web/CBaseController.php(126): require('/home/zagran/wo...')
+#7 /home/zagran/workspace/saleitem/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/zagran/wo...', Array, true)
+#8 /home/zagran/workspace/saleitem/framework/web/widgets/CContentDecorator.php(76): CBaseController->renderFile('/home/zagran/wo...', Array, true)
+#9 /home/zagran/workspace/saleitem/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate('<div class="con...')
+#10 /home/zagran/workspace/saleitem/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput('<div class="con...')
+#11 /home/zagran/workspace/saleitem/framework/web/CBaseController.php(206): COutputProcessor->run()
+#12 /home/zagran/workspace/saleitem/framework/web/CBaseController.php(300): CBaseController->endWidget('CContentDecorat...')
+#13 /home/zagran/workspace/saleitem/framework/gii/views/layouts/column1.php(7): CBaseController->endContent()
+#14 /home/zagran/workspace/saleitem/framework/web/CBaseController.php(126): require('/home/zagran/wo...')
+#15 /home/zagran/workspace/saleitem/framework/web/CBaseController.php(95): CBaseController->renderInternal('/home/zagran/wo...', Array, true)
+#16 /home/zagran/workspace/saleitem/framework/web/CController.php(784): CBaseController->renderFile('/home/zagran/wo...', Array, true)
+#17 /home/zagran/workspace/saleitem/framework/gii/controllers/DefaultController.php(47): CController->render('login', Array)
+#18 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(49): DefaultController->actionLogin()
+#19 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#20 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#21 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#22 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('login')
+#23 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/default/log...')
+#24 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#25 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#26 {main}
+REQUEST_URI=/index.php/gii/default/login
+HTTP_REFERER=http://saleitem/index.php/gii/model
+---
+2013/07/15 15:32:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 15:32:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 15:32:28 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/home/zagran/workspace/saleitem/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /home/zagran/workspace/saleitem/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/home/zagran/wo...')
+#1 /home/zagran/workspace/saleitem/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /home/zagran/workspace/saleitem/framework/web/CClientScript.php(462): CAssetManager->publish('/home/zagran/wo...')
+#3 /home/zagran/workspace/saleitem/framework/web/CClientScript.php(499): CClientScript->getCoreScriptUrl()
+#4 /home/zagran/workspace/saleitem/framework/web/CClientScript.php(315): CClientScript->getPackageBaseUrl('jquery')
+#5 /home/zagran/workspace/saleitem/framework/web/CClientScript.php(208): CClientScript->renderCoreScripts()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(351): CClientScript->render('<!DOCTYPE html ...')
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(788): CController->processOutput('<!DOCTYPE html ...')
+#8 /home/zagran/workspace/saleitem/protected/controllers/SiteController.php(98): CController->render('login', Array)
+#9 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('site/login')
+#15 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php/site/login
+HTTP_REFERER=http://saleitem/
+---
+2013/07/15 15:32:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 15:32:41 [error] [php] Undefined index: password (/home/zagran/workspace/saleitem/protected/components/ApiB.php:44)
+Stack trace:
+#0 unknown(0): ApiController->actionProxy()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#2 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#7 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#9 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (44)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (189)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 15:33:16 [error] [php] Undefined index: password (/home/zagran/workspace/saleitem/protected/components/ApiB.php:44)
+Stack trace:
+#0 unknown(0): ApiController->actionProxy()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#2 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#7 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#9 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (44)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (189)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 15:34:48 [error] [php] Undefined index: tw_id (/home/zagran/workspace/saleitem/protected/components/ApiB.php:46)
+Stack trace:
+#0 unknown(0): ApiController->actionProxy()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#2 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#7 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#8 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#9 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_fb_login
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (46)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (190)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 15:35:43 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (50)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (191)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 15:35:56 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (50)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (191)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 15:48:06 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (50)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (191)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 15:48:25 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (50)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (191)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 15:48:25 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '12356756' for key 'fb_id_UNIQUE'. The SQL statement executed was: INSERT INTO `user` (`first_name`, `last_name`, `email`, `password`, `fb_id`, `tw_id`, `userpic`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (191)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 15:48:25 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '12356756' for key 'fb_id_UNIQUE'. The SQL statement executed was: INSERT INTO `user` (`first_name`, `last_name`, `email`, `password`, `fb_id`, `tw_id`, `userpic`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(51): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/components/ApiB.php(191): ApiB::create_user(Array)
+#4 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::account_fb_login()
+#5 [internal function]: ApiController->actionProxy('account_fb_logi...')
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#10 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#12 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#13 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/api/account_fb_login
+---
+2013/07/15 15:49:06 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (50)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (191)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 16:09:24 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (50)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (192)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 16:19:56 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (52)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (194)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 17:14:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 17:14:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 17:14:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 17:14:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 17:15:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 17:15:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 17:15:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 17:59:24 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 17:59:24 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 17:59:24 [error] [exception.CException] exception 'CException' with message 'Property "UserProfile.latitude" is not defined.' in /home/zagran/workspace/saleitem/framework/base/CComponent.php:130
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(143): CComponent->__get('latitude')
+#1 /home/zagran/workspace/saleitem/framework/validators/CNumberValidator.php(78): CActiveRecord->__get('latitude')
+#2 /home/zagran/workspace/saleitem/framework/validators/CValidator.php(213): CNumberValidator->validateAttribute(Object(UserProfile), 'latitude')
+#3 /home/zagran/workspace/saleitem/framework/base/CModel.php(159): CValidator->validate(Object(UserProfile), NULL)
+#4 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(794): CModel->validate(NULL)
+#5 /home/zagran/workspace/saleitem/protected/components/ApiB.php(73): CActiveRecord->save()
+#6 /home/zagran/workspace/saleitem/protected/components/ApiB.php(25): ApiB::create_user(Array)
+#7 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::account_create()
+#8 [internal function]: ApiController->actionProxy('account_create')
+#9 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#11 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#15 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#16 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#17 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/api/account_create
+---
+2013/07/15 18:00:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 18:00:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/15 18:01:03 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:01:53 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:01:53 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:01:53 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:14:38 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:14:39 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:14:39 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:15:46 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:15:46 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:15:46 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:16:22 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:16:22 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:16:22 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:17:28 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:17:28 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:17:28 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:20:07 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:20:07 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:20:07 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:22:18 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:22:18 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:22:18 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:22:32 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:22:32 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:22:32 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:23:21 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:23:21 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:23:21 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:25:27 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:25:27 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:25:27 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:25:57 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:25:57 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:25:57 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:26:45 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:26:45 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:26:45 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:27:07 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:27:07 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:27:07 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:40:22 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:40:22 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:40:22 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:40:55 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:40:55 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:40:55 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:41:34 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:41:34 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:41:34 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:42:17 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:42:17 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:42:17 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:43:06 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:43:07 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:43:07 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:44:28 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:44:28 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:44:28 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:44:47 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:44:47 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:44:47 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:46:21 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:46:21 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:46:21 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:46:52 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:46:53 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:46:53 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:49:13 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:49:13 [error] [exception.CException] exception 'CException' with message 'User and its behaviors do not have a method or closure named "getSingleLineAddress".' in /home/zagran/workspace/saleitem/framework/base/CComponent.php:265
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(225): CComponent->__call('getSingleLineAd...', Array)
+#1 /home/zagran/workspace/saleitem/protected/models/User.php(44): CActiveRecord->__call('getSingleLineAd...', Array)
+#2 /home/zagran/workspace/saleitem/protected/models/User.php(44): User->getSingleLineAddress()
+#3 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1017): User->beforeSave()
+#4 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#5 /home/zagran/workspace/saleitem/protected/components/ApiB.php(52): CActiveRecord->save()
+#6 /home/zagran/workspace/saleitem/protected/components/ApiB.php(25): ApiB::create_user(Array)
+#7 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::account_create()
+#8 [internal function]: ApiController->actionProxy('account_create')
+#9 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#11 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#15 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#16 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#17 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/api/account_create
+---
+2013/07/15 18:54:33 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:54:33 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:54:33 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:56:00 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:56:00 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:56:00 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:57:00 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:57:00 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:57:00 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:58:18 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:58:18 [error] [exception.CException] exception 'CException' with message 'Property "User.coordinates" is not defined.' in /home/zagran/workspace/saleitem/framework/base/CComponent.php:173
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(159): CComponent->__set('coordinates', Object(CDbExpression))
+#1 /home/zagran/workspace/saleitem/protected/models/User.php(48): CActiveRecord->__set('coordinates', Object(CDbExpression))
+#2 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1017): User->beforeSave()
+#3 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#4 /home/zagran/workspace/saleitem/protected/components/ApiB.php(52): CActiveRecord->save()
+#5 /home/zagran/workspace/saleitem/protected/components/ApiB.php(25): ApiB::create_user(Array)
+#6 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::account_create()
+#7 [internal function]: ApiController->actionProxy('account_create')
+#8 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#9 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#14 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#15 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/api/account_create
+---
+2013/07/15 18:58:41 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:58:41 [error] [exception.CException] exception 'CException' with message 'Property "User.location" is not defined.' in /home/zagran/workspace/saleitem/framework/base/CComponent.php:173
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(159): CComponent->__set('location', Object(CDbExpression))
+#1 /home/zagran/workspace/saleitem/protected/models/User.php(48): CActiveRecord->__set('location', Object(CDbExpression))
+#2 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1017): User->beforeSave()
+#3 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#4 /home/zagran/workspace/saleitem/protected/components/ApiB.php(52): CActiveRecord->save()
+#5 /home/zagran/workspace/saleitem/protected/components/ApiB.php(25): ApiB::create_user(Array)
+#6 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::account_create()
+#7 [internal function]: ApiController->actionProxy('account_create')
+#8 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#9 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#14 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#15 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/api/account_create
+---
+2013/07/15 18:59:17 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 18:59:17 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:02:39 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:02:39 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:07:09 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:07:10 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (73)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:07:10 [error] [php] Undefined variable: coords (/home/zagran/workspace/saleitem/protected/models/UserProfile.php:29)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/components/ApiB.php(75): UserProfile->save()
+#1 /home/zagran/workspace/saleitem/protected/components/ApiB.php(25): create_user()
+#2 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): account_create()
+#3 unknown(0): ApiController->actionProxy()
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/models/UserProfile.php (29)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (75)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+2013/07/15 19:07:32 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:07:32 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (73)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:07:32 [error] [php] Undefined variable: coords (/home/zagran/workspace/saleitem/protected/models/UserProfile.php:29)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/components/ApiB.php(75): UserProfile->save()
+#1 /home/zagran/workspace/saleitem/protected/components/ApiB.php(25): create_user()
+#2 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): account_create()
+#3 unknown(0): ApiController->actionProxy()
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/models/UserProfile.php (29)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (75)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+2013/07/15 19:07:57 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:07:57 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (73)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:07:57 [error] [php] Undefined variable: coords (/home/zagran/workspace/saleitem/protected/models/UserProfile.php:29)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/components/ApiB.php(75): UserProfile->save()
+#1 /home/zagran/workspace/saleitem/protected/components/ApiB.php(25): create_user()
+#2 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): account_create()
+#3 unknown(0): ApiController->actionProxy()
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#11 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/account_create
+in /home/zagran/workspace/saleitem/protected/models/UserProfile.php (29)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (75)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+2013/07/15 19:08:35 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:08:35 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (73)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:08:35 [error] [exception.CException] exception 'CException' with message 'Property "UserProfile.coordinates" is not defined.' in /home/zagran/workspace/saleitem/framework/base/CComponent.php:173
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(159): CComponent->__set('coordinates', Object(CDbExpression))
+#1 /home/zagran/workspace/saleitem/protected/models/UserProfile.php(28): CActiveRecord->__set('coordinates', Object(CDbExpression))
+#2 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1017): UserProfile->beforeSave()
+#3 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#4 /home/zagran/workspace/saleitem/protected/components/ApiB.php(75): CActiveRecord->save()
+#5 /home/zagran/workspace/saleitem/protected/components/ApiB.php(25): ApiB::create_user(Array)
+#6 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::account_create()
+#7 [internal function]: ApiController->actionProxy('account_create')
+#8 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#9 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#14 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#15 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/api/account_create
+---
+2013/07/15 19:08:51 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:08:51 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (73)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:09:19 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:09:19 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (73)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:09:19 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'location' cannot be null. The SQL statement executed was: INSERT INTO `user_profile` (`user_id`, `location`) VALUES (:yp0, GeomFromText(:point)).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (75)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:09:19 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'location' cannot be null. The SQL statement executed was: INSERT INTO `user_profile` (`user_id`, `location`) VALUES (:yp0, GeomFromText(:point))' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(75): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/components/ApiB.php(25): ApiB::create_user(Array)
+#4 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::account_create()
+#5 [internal function]: ApiController->actionProxy('account_create')
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#10 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#12 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#13 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/api/account_create
+---
+2013/07/15 19:10:03 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:11:30 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:11:30 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:11:30 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:11:45 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:11:45 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:11:45 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:12:12 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:12:12 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:12:12 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:13:12 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:13:12 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:13:12 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:13:24 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:13:24 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:13:24 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (71)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:13:50 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:13:50 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/15 19:13:50 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:34:25 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:34:25 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:34:25 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:34:40 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:34:40 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:34:40 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:35:24 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:35:24 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:35:24 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:35:46 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:35:46 [warning] [application] Failed to set unsafe attribute "location" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 10:35:46 [warning] [application] Failed to set unsafe attribute "phone" of "UserProfile".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (72)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 11:28:38 [error] [exception.CException] exception 'CException' with message 'Property "UserCnt.folowers" is not defined.' in /home/zagran/workspace/saleitem/framework/base/CComponent.php:130
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(143): CComponent->__get('folowers')
+#1 /home/zagran/workspace/saleitem/protected/components/ApiB.php(274): CActiveRecord->__get('folowers')
+#2 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::follow()
+#3 [internal function]: ApiController->actionProxy('follow')
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#11 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/api/follow
+---
+2013/07/16 14:42:10 [error] [php] Undefined variable: connection (/home/zagran/workspace/saleitem/protected/components/ApiB.php:267)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/follow
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (267)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/16 15:10:19 [error] [php] Undefined index: follower_id (/home/zagran/workspace/saleitem/protected/components/ApiB.php:269)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/follow
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (269)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/16 15:10:58 [error] [php] Creating default object from empty value (/home/zagran/workspace/saleitem/protected/components/ApiB.php:285)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/follow
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (285)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/16 15:26:45 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 15:32:01 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+2013/07/16 16:41:50 [error] [php] Trying to get property of non-object (/home/zagran/workspace/saleitem/protected/components/ApiB.php:320)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/followers
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (320)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/16 16:51:39 [error] [php] Creating default object from empty value (/home/zagran/workspace/saleitem/protected/components/ApiB.php:287)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/follow
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (287)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 10:49:40 [error] [exception.CException] exception 'CException' with message 'CDbCommand and its behaviors do not have a method or closure named "params".' in /home/zagran/workspace/saleitem/framework/base/CComponent.php:265
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/components/ApiB.php(333): CComponent->__call('params', Array)
+#1 /home/zagran/workspace/saleitem/protected/components/ApiB.php(333): CDbCommand->params(Array)
+#2 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::followers()
+#3 [internal function]: ApiController->actionProxy('followers')
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#11 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/api/followers
+---
+2013/07/17 10:50:44 [error] [exception.CException] exception 'CException' with message 'CDbCommand and its behaviors do not have a method or closure named "params".' in /home/zagran/workspace/saleitem/framework/base/CComponent.php:265
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/components/ApiB.php(333): CComponent->__call('params', Array)
+#1 /home/zagran/workspace/saleitem/protected/components/ApiB.php(333): CDbCommand->params(Array)
+#2 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::followers()
+#3 [internal function]: ApiController->actionProxy('followers')
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#11 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/api/followers
+---
+2013/07/17 10:51:28 [error] [exception.CException] exception 'CException' with message 'CDbCommand and its behaviors do not have a method or closure named "params".' in /home/zagran/workspace/saleitem/framework/base/CComponent.php:265
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/components/ApiB.php(334): CComponent->__call('params', Array)
+#1 /home/zagran/workspace/saleitem/protected/components/ApiB.php(334): CDbCommand->params(Array)
+#2 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::followers()
+#3 [internal function]: ApiController->actionProxy('followers')
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#11 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/api/followers
+---
+2013/07/17 10:53:07 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT `user_id`
+FROM `follower`
+WHERE follower_id = 93' at line 1. The SQL statement executed was: SELECT * FROM `user` `t` WHERE id in SELECT `user_id`
+FROM `follower`
+WHERE follower_id = 93.
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (335)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 10:53:07 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT `user_id`
+FROM `follower`
+WHERE follower_id = 93' at line 1. The SQL statement executed was: SELECT * FROM `user` `t` WHERE id in SELECT `user_id`
+FROM `follower`
+WHERE follower_id = 93' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /home/zagran/workspace/saleitem/protected/components/ApiB.php(335): CActiveRecord->findAll('id in SELECT `u...')
+#4 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::followers()
+#5 [internal function]: ApiController->actionProxy('followers')
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#10 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#12 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#13 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/api/followers
+---
+2013/07/17 14:38:18 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TIMESTAMPDIFF(MINUTE,`last_active`,now()) min_left FROM `user` `t` WHERE id in (' at line 1. The SQL statement executed was: SELECT *TIMESTAMPDIFF(MINUTE,`last_active`,now()) min_left FROM `user` `t` WHERE id in (select user_id from `follower` where follower_id = :id).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (341)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 14:38:18 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TIMESTAMPDIFF(MINUTE,`last_active`,now()) min_left FROM `user` `t` WHERE id in (' at line 1. The SQL statement executed was: SELECT *TIMESTAMPDIFF(MINUTE,`last_active`,now()) min_left FROM `user` `t` WHERE id in (select user_id from `follower` where follower_id = :id)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /home/zagran/workspace/saleitem/protected/components/ApiB.php(341): CActiveRecord->findAll(Object(CDbCriteria))
+#4 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::followers()
+#5 [internal function]: ApiController->actionProxy('followers')
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#10 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#12 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#13 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#15 {main}
+REQUEST_URI=/api/followers
+---
+2013/07/17 15:45:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 15:45:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 15:45:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 15:45:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 15:45:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 16:09:28 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saleitem`.`watch`, CONSTRAINT `fk_watch_item1` FOREIGN KEY (`item_id`) REFERENCES `item` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `watch` (`is_starred`, `item_id`, `user_id`) VALUES (:yp0, :yp1, :yp2).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (370)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 16:09:28 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saleitem`.`watch`, CONSTRAINT `fk_watch_item1` FOREIGN KEY (`item_id`) REFERENCES `item` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `watch` (`is_starred`, `item_id`, `user_id`) VALUES (:yp0, :yp1, :yp2)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(370): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::add_to_watch()
+#4 [internal function]: ApiController->actionProxy('add_to_watch')
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#12 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/api/add_to_watch
+---
+2013/07/17 16:10:19 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saleitem`.`watch`, CONSTRAINT `fk_watch_item1` FOREIGN KEY (`item_id`) REFERENCES `item` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `watch` (`is_starred`, `item_id`, `user_id`) VALUES (:yp0, :yp1, :yp2).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (370)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 16:10:19 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saleitem`.`watch`, CONSTRAINT `fk_watch_item1` FOREIGN KEY (`item_id`) REFERENCES `item` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `watch` (`is_starred`, `item_id`, `user_id`) VALUES (:yp0, :yp1, :yp2)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(370): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::add_to_watch()
+#4 [internal function]: ApiController->actionProxy('add_to_watch')
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#12 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/api/add_to_watch
+---
+2013/07/17 16:10:43 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saleitem`.`watch`, CONSTRAINT `fk_watch_item1` FOREIGN KEY (`item_id`) REFERENCES `item` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `watch` (`is_starred`, `item_id`, `user_id`) VALUES (:yp0, :yp1, :yp2).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (370)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 16:10:43 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saleitem`.`watch`, CONSTRAINT `fk_watch_item1` FOREIGN KEY (`item_id`) REFERENCES `item` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `watch` (`is_starred`, `item_id`, `user_id`) VALUES (:yp0, :yp1, :yp2)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(370): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::add_to_watch()
+#4 [internal function]: ApiController->actionProxy('add_to_watch')
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#12 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/api/add_to_watch
+---
+2013/07/17 16:14:44 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saleitem`.`watch`, CONSTRAINT `fk_watch_item1` FOREIGN KEY (`item_id`) REFERENCES `item` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `watch` (`is_starred`, `item_id`, `user_id`) VALUES (:yp0, :yp1, :yp2).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (373)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 16:14:44 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`saleitem`.`watch`, CONSTRAINT `fk_watch_item1` FOREIGN KEY (`item_id`) REFERENCES `item` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION). The SQL statement executed was: INSERT INTO `watch` (`is_starred`, `item_id`, `user_id`) VALUES (:yp0, :yp1, :yp2)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(373): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::add_to_watch()
+#4 [internal function]: ApiController->actionProxy('add_to_watch')
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#12 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/api/add_to_watch
+---
+2013/07/17 16:19:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 16:19:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 16:41:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 16:41:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 16:41:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 17:15:59 [error] [php] Undefined variable: user_id (/home/zagran/workspace/saleitem/protected/components/ApiB.php:419)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/set_starred
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (419)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 17:16:13 [error] [php] Undefined variable: user_id (/home/zagran/workspace/saleitem/protected/components/ApiB.php:419)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/set_starred
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (419)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 17:27:15 [error] [php] Undefined variable: user_id (/home/zagran/workspace/saleitem/protected/components/ApiB.php:419)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#1 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#5 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#6 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/set_starred
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (419)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 18:24:05 [error] [php] Invalid argument supplied for foreach() (/home/zagran/workspace/saleitem/framework/db/schema/CDbCommandBuilder.php:266)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): set_starred()
+#1 unknown(0): ApiController->actionProxy()
+#2 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#3 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#7 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#8 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/set_starred
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (414)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 18:25:49 [error] [php] Invalid argument supplied for foreach() (/home/zagran/workspace/saleitem/framework/db/schema/CDbCommandBuilder.php:266)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): set_starred()
+#1 unknown(0): ApiController->actionProxy()
+#2 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#3 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#7 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#8 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/set_starred
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (414)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 18:25:59 [error] [php] Invalid argument supplied for foreach() (/home/zagran/workspace/saleitem/framework/db/schema/CDbCommandBuilder.php:266)
+Stack trace:
+#0 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): set_starred()
+#1 unknown(0): ApiController->actionProxy()
+#2 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#3 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#4 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /home/zagran/workspace/saleitem/framework/web/CController.php(286): ApiController->runAction()
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(265): ApiController->runActionWithFilters()
+#7 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): ApiController->run()
+#8 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /home/zagran/workspace/saleitem/index.php(13): CWebApplication->run()
+REQUEST_URI=/api/set_starred
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (416)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 18:28:34 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens. The SQL statement executed was: UPDATE `follower` SET `is_starred`=:yp0 WHERE follower_id = 1.
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (416)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 18:28:34 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens. The SQL statement executed was: UPDATE `follower` SET `is_starred`=:yp0 WHERE follower_id = 1' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1709): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/protected/components/ApiB.php(416): CActiveRecord->updateAll(Array, 'follower_id = 1', Array)
+#2 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::set_starred()
+#3 [internal function]: ApiController->actionProxy('set_starred')
+#4 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#11 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#12 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#13 {main}
+REQUEST_URI=/api/set_starred
+---
+2013/07/17 18:52:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 18:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 18:52:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 18:52:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 18:52:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 18:58:24 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-36' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (421)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 18:58:24 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-36' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(421): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::set_starred()
+#4 [internal function]: ApiController->actionProxy('set_starred')
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#12 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/api/set_starred
+---
+2013/07/17 18:59:37 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-36' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (422)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 18:59:37 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-36' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(422): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::set_starred()
+#4 [internal function]: ApiController->actionProxy('set_starred')
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#12 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/api/set_starred
+---
+2013/07/17 19:00:16 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-36' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (422)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 19:00:16 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-36' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(422): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::set_starred()
+#4 [internal function]: ApiController->actionProxy('set_starred')
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#12 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/api/set_starred
+---
+2013/07/17 19:00:44 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-37' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (422)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 19:00:44 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-37' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(422): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::set_starred()
+#4 [internal function]: ApiController->actionProxy('set_starred')
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#12 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/api/set_starred
+---
+2013/07/17 19:00:58 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-37' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (422)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 19:00:58 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-37' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(422): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::set_starred()
+#4 [internal function]: ApiController->actionProxy('set_starred')
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#12 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/api/set_starred
+---
+2013/07/17 19:01:01 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-37' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1).
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (422)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
+in /home/zagran/workspace/saleitem/index.php (13)
+2013/07/17 19:01:01 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '93-37' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `chat_starred` (`user_id`, `chat_id`) VALUES (:yp0, :yp1)' in /home/zagran/workspace/saleitem/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(1023): CDbCommand->execute()
+#1 /home/zagran/workspace/saleitem/framework/db/ar/CActiveRecord.php(795): CActiveRecord->insert(NULL)
+#2 /home/zagran/workspace/saleitem/protected/components/ApiB.php(422): CActiveRecord->save()
+#3 /home/zagran/workspace/saleitem/protected/controllers/ApiController.php(23): ApiB::set_starred()
+#4 [internal function]: ApiController->actionProxy('set_starred')
+#5 /home/zagran/workspace/saleitem/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(ApiController), Array)
+#6 /home/zagran/workspace/saleitem/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(ApiController), Object(ReflectionMethod), Array)
+#7 /home/zagran/workspace/saleitem/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#8 /home/zagran/workspace/saleitem/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#9 /home/zagran/workspace/saleitem/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(282): CController->run('proxy')
+#11 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('api/proxy')
+#12 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#14 {main}
+REQUEST_URI=/api/set_starred
+---
+2013/07/17 19:28:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/17 19:28:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /home/zagran/workspace/saleitem/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /home/zagran/workspace/saleitem/framework/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /home/zagran/workspace/saleitem/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /home/zagran/workspace/saleitem/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2013/07/18 10:24:54 [warning] [application] Failed to set unsafe attribute "last_active" of "User".
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (51)
+in /home/zagran/workspace/saleitem/protected/components/ApiB.php (25)
+in /home/zagran/workspace/saleitem/protected/controllers/ApiController.php (23)
