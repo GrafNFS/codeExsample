@@ -78,19 +78,69 @@ class ApiB extends ApiBase {
         
         if (static::$_type_id == 1) {
             $data = array(
-                
+                'id_user' => static::$_user_id,
+                'default_industry' => Yii::app()->getRequest()->getPost('default_industry'),
+                'default_revenue_slider' => Yii::app()->getRequest()->getPost('default_revenue_slider'),
+                'connection_cost_slider' => Yii::app()->getRequest()->getPost('connection_cost_slider'),
+                'distance_slider' => Yii::app()->getRequest()->getPost('distance_slider'),
             );
+            $this->setting_user($data);
         }
         elseif (static::$_type_id == 2) {
-            
+            $data = array(
+                'id_user' => static::$_user_id,
+                'profile_complite' => Yii::app()->getRequest()->getPost('profile_complite'),
+                'distance_slider' => Yii::app()->getRequest()->getPost('distance_slider'),
+                'cost_of_connection' => Yii::app()->getRequest()->getPost('cost_of_connection'),
+                'receipt_payment' => Yii::app()->getRequest()->getPost('receipt_payment'),
+            );
+            $this->setting_business($data);
         }
     }
     
-    private static function setting_user() {
-        
+    private static function setting_user($data) {
+        $settingUser = SettingUser::model()->find("id_user=:id_user", array(":id_user" => $data['id_user']));
+        if ($settingUser != null) {
+            $settingUser->attributes = $data;
+            if (!$settingUser->save()) {
+                static::_send_resp(null, 101, $settingUser->getErrors());
+            }
+            else {
+                static::_send_resp($settingUser);
+            }
+        }
+        else {
+            $newSettingUser = new SettingUser();
+            $newSettingUser->attributes = $data;
+            if (!$newSettingUser->save()) {
+                static::_send_resp(null, 101, $newSettingUser->getErrors());
+            }
+            else {
+                static::_send_resp($newSettingUser);
+            }
+        } 
     }
     
-    private static function setting_business() {
-        
+    private static function setting_business($data) {
+        $settingBusiness = SettingBusiness::model()->find("id_user=:id_user", array(":id_user" => $data['id_user']));
+        if ($settingBusiness != null) {
+            $settingBusiness->attributes = $data;
+            if (!$settingBusiness->save()) {
+                static::_send_resp(null, 101, $settingBusiness->getErrors());
+            }
+            else {
+                static::_send_resp($settingBusiness);
+            }
+        }
+        else {
+            $newSettingBusiness = new SettingBusiness();
+            $newSettingBusiness->attributes = $data;
+            if (!$newSettingBusiness->save()) {
+                static::_send_resp(null, 101, $newSettingBusiness->getErrors());
+            }
+            else {
+                static::_send_resp($newSettingBusiness);
+            }
+        }
     }
 }

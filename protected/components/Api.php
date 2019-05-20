@@ -77,4 +77,48 @@ Class Api extends ApiBase {
             static::_send_resp($newSchedule);
         }
     }
+    
+    public static function search_business() {
+        $resp = "";
+        $subIndustry = Yii::app()->getRequest()->getPost('id_sub_industry');
+        $beginRevenue = Yii::app()->getRequest()->getPost('begin_revenue');
+        $endRevenue = Yii::app()->getRequest()->getPost('end_revenue');
+        
+        $searchBusiness = ProfileBusiness::model()->findAll("id_sub_industry=:sub_industry and revenue<=:begin_revenue and revenue>=:end_revenue", 
+                array(":sub_industry" => $subIndustry, ":begin_revenue" => $beginRevenue, ":end_revenue" => $endRevenue));
+        foreach ($searchBusiness as $item) {
+            $settingBusiness = SettingBusiness::model()->find("id_user=:id_user", array(":id_user"=>$item->id_user));
+            $resp[] = array(
+                "id_user" => $item->id_user,
+                "photo" => $item->photo,
+                "revenue" => $item->revenue,
+                "cost_of_connection" => $settingBusiness->cost_of_connection,
+                "opening_year" => $item->opening_year,
+                "opening_year_hide" => $item->opening_year_hide,
+                "discription" =>$item->discription
+            );
+        }
+        
+        static::_send_resp($resp);
+    }
+    
+    public static function output_industry() {
+        $industryAll = Industry::model()->findAll();
+        if (isset($industryAll) && $industryAll != null) {
+            static::_send_resp($industryAll);
+        }
+        else {
+            static::_send_resp(null, 204, "No records");
+        }
+    }
+    
+    public static function output_sub_industry() {
+        $subIndustryAll = SubIndustry::model()->findAll();
+        if (isset($subIndustryAll) && $subIndustryAll != null) {
+            static::_send_resp($subIndustryAll);
+        }
+        else {
+            static::_send_resp(null, 204, "No records");
+        }
+    }
 }
