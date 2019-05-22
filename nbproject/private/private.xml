@@ -6,13 +6,13 @@
             <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/controllers/ApiController.php</file>
             <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/config/main.php</file>
             <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/components/ApiBase.php</file>
-            <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/models/Users.php</file>
+            <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/models/SettingUser.php</file>
             <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/models/ProfileUser.php</file>
-            <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/models/SettingBusiness.php</file>
             <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/components/Api.php</file>
             <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/components/ApiC.php</file>
             <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/models/ProfileBusiness.php</file>
             <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/components/ApiB.php</file>
+            <file>file:/Users/sputniksoftwarecompany/NetBeansProjects/avare/protected/models/Message.php</file>
         </group>
     </open-files>
 </project-private>

@@ -2,51 +2,51 @@
 
 Class Api extends ApiBase {
 
-    public static function account_login() {
-
-        $model = new User;
-        ///print_r($_POST);
-        $email = mb_strtolower(Yii::app()->getRequest()->getPost('email'));
-        $password = Yii::app()->getRequest()->getPost('password');
-
-        $model->attributes = array('email' => $email, 'password' => $password);
-
-        $validator = new CEmailValidator;
-        $error = null;
-        $user = $model->check_login($email, $password);
-        if (!$validator->validateValue($email) || !$user) {
-            static::_send_resp(null, 201, 'Wrong username or password');
-        }
-        if ($user) {
-            $id = $user['id'];
-            if ($model->updateByPk($id, array('last_active' => date('Y-m-d H:i:s')))) {
-                $userProfile = UserProfile::model()->findByAttributes(array('user_id' => $id));
-                $resp = array(
-                    'id' => $id,
-                    'email' => $user->email,
-                    'password' => $user->password,
-                    'first_name' => $user->first_name,
-                    'last_name' => $user->last_name,
-                    'country' => $userProfile->country,
-                    'city' => $userProfile->city,
-                    'street' => $userProfile->street,
-                    'zipccode' => $userProfile->zipcode,
-                    'phone' => $userProfile->phone,
-                    'latitude' => $userProfile->latitude,
-                    'longitude' => $userProfile->longitude
-                );
-
-                static::_send_resp($resp);
-            }
-        }
-        static::_send_resp(null, 100, 'Unknown error');
-    }
+//    public static function account_login() {
+//
+//        $model = new User;
+//        ///print_r($_POST);
+//        $email = mb_strtolower(Yii::app()->getRequest()->getPost('email'));
+//        $password = Yii::app()->getRequest()->getPost('password');
+//
+//        $model->attributes = array('email' => $email, 'password' => $password);
+//
+//        $validator = new CEmailValidator;
+//        $error = null;
+//        $user = $model->check_login($email, $password);
+//        if (!$validator->validateValue($email) || !$user) {
+//            static::_send_resp(null, 201, 'Wrong username or password');
+//        }
+//        if ($user) {
+//            $id = $user['id'];
+//            if ($model->updateByPk($id, array('last_active' => date('Y-m-d H:i:s')))) {
+//                $userProfile = UserProfile::model()->findByAttributes(array('user_id' => $id));
+//                $resp = array(
+//                    'id' => $id,
+//                    'email' => $user->email,
+//                    'password' => $user->password,
+//                    'first_name' => $user->first_name,
+//                    'last_name' => $user->last_name,
+//                    'country' => $userProfile->country,
+//                    'city' => $userProfile->city,
+//                    'street' => $userProfile->street,
+//                    'zipccode' => $userProfile->zipcode,
+//                    'phone' => $userProfile->phone,
+//                    'latitude' => $userProfile->latitude,
+//                    'longitude' => $userProfile->longitude
+//                );
+//
+//                static::_send_resp($resp);
+//            }
+//        }
+//        static::_send_resp(null, 100, 'Unknown error');
+//    }
     
     public static function home() {
         static::_check_auth();
         
         if (static::$_type_id == 1) {
-            $sheduleList = Schedule::model()->findAll("id_user=:id_user", array(":id_user" => static::$_user_id));
+            $this->home_user(static::$_user_id);
         }
         elseif (static::$_type_id == 2) {
             $sheduleList = Schedule::model()->findAll("id_business=:id_business", array(":id_business" => static::$_user_id));
@@ -58,6 +58,33 @@ Class Api extends ApiBase {
         static::_send_resp(null, 100, 'Unknown error');
     }
     
+    private static function home_user($id_user) {
+        $resp = "";
+        $searchBusiness = "";
+        $settingUser = SettingUser::model()->find("id_user=:id_user", array(":id_user" => $id_user));
+        
+        if ($settingUser != null) {
+            $searchBusiness = ProfileBusiness::model()->findAll("id_industry=:industry", 
+                array(":industry" => $subIndustry));
+        }
+        else {
+            $searchBusiness = ProfileBusiness::model()->findAll();
+        }
+        foreach ($searchBusiness as $item) {
+            $settingBusiness = SettingBusiness::model()->find("id_user=:id_user", array(":id_user"=>$item->id_user));
+            $resp[] = array(
+                "id_user" => $item->id_user,
+                "photo" => $item->photo,
+                "revenue" => $item->revenue,
+                "cost_of_connection" => $settingBusiness->cost_of_connection,
+                "opening_year" => $item->opening_year,
+                "opening_year_hide" => $item->opening_year_hide,
+                "discription" =>$item->discription
+            );
+        }
+        static::_send_resp($resp);
+    }
+
     public static function create_schedule() {
         static::_check_auth();
         
@@ -80,12 +107,12 @@ Class Api extends ApiBase {
     
     public static function search_business() {
         $resp = "";
-        $subIndustry = Yii::app()->getRequest()->getPost('id_sub_industry');
+        $industry = Yii::app()->getRequest()->getPost('id_industry');
         $beginRevenue = Yii::app()->getRequest()->getPost('begin_revenue');
         $endRevenue = Yii::app()->getRequest()->getPost('end_revenue');
         
-        $searchBusiness = ProfileBusiness::model()->findAll("id_sub_industry=:sub_industry and revenue<=:begin_revenue and revenue>=:end_revenue", 
-                array(":sub_industry" => $subIndustry, ":begin_revenue" => $beginRevenue, ":end_revenue" => $endRevenue));
+        $searchBusiness = ProfileBusiness::model()->findAll("id_industry=:industry and revenue<=:begin_revenue and revenue>=:end_revenue", 
+            array(":industry" => $subIndustry, ":begin_revenue" => $beginRevenue, ":end_revenue" => $endRevenue));
         foreach ($searchBusiness as $item) {
             $settingBusiness = SettingBusiness::model()->find("id_user=:id_user", array(":id_user"=>$item->id_user));
             $resp[] = array(

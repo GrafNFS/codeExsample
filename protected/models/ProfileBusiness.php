@@ -8,7 +8,7 @@
  * @property string $display_name
  * @property integer $name_hide
  * @property string $photo
- * @property integer $id_sub_industry
+ * @property integer $id_industry
  * @property string $revenue
  * @property string $opening_year
  * @property integer $opening_year_hide
@@ -42,14 +42,14 @@ class ProfileBusiness extends CActiveRecord {
         // will receive user inputs.
         return array(
             array('id_user', 'required'),
-            array('id_user, name_hide, id_sub_industry, opening_year_hide, location_hide', 'numerical', 'integerOnly' => true),
+            array('id_user, name_hide, id_industry, opening_year_hide, location_hide', 'numerical', 'integerOnly' => true),
             array('display_name, photo, location', 'length', 'max' => 100),
             array('revenue', 'length', 'max' => 50),
             array('opening_year', 'length', 'max' => 20),
             array('discription', 'safe'),
             // The following rule is used by search().
             // Please remove those attributes that should not be searched.
-            array('id_user, display_name, name_hide, photo, id_sub_industry, revenue, opening_year, opening_year_hide, location, location_hide, discription', 'safe', 'on' => 'search'),
+            array('id_user, display_name, name_hide, photo, id_industry, revenue, opening_year, opening_year_hide, location, location_hide, discription', 'safe', 'on' => 'search'),
         );
     }
 
@@ -72,7 +72,7 @@ class ProfileBusiness extends CActiveRecord {
             'display_name' => 'Display Name',
             'name_hide' => 'Name Hide',
             'photo' => 'Photo',
-            'id_sub_industry' => 'Id Sub Industry',
+            'id_industry' => 'Id Sub Industry',
             'revenue' => 'Revenue',
             'opening_year' => 'Opening Year',
             'opening_year_hide' => 'Opening Year Hide',
@@ -96,7 +96,7 @@ class ProfileBusiness extends CActiveRecord {
         $criteria->compare('display_name', $this->display_name, true);
         $criteria->compare('name_hide', $this->name_hide);
         $criteria->compare('photo', $this->photo, true);
-        $criteria->compare('id_sub_industry', $this->id_sub_industry);
+        $criteria->compare('id_industry', $this->id_sub_industry);
         $criteria->compare('revenue', $this->revenue, true);
         $criteria->compare('opening_year', $this->opening_year, true);
         $criteria->compare('opening_year_hide', $this->opening_year_hide);
